@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{58681F55-EA6E-40A9-BBD9-7023055FF964}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamic", "Dynamic", "{6DED2278-ECA2-4F4C-BDB8-B549B414FA80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicLib", "Dynamic\DynamicLib\DynamicLib.csproj", "{69996F3F-0EB3-4E6F-882C-D9EE09870B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58681F55-EA6E-40A9-BBD9-7023055FF964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58681F55-EA6E-40A9-BBD9-7023055FF964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58681F55-EA6E-40A9-BBD9-7023055FF964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58681F55-EA6E-40A9-BBD9-7023055FF964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69996F3F-0EB3-4E6F-882C-D9EE09870B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69996F3F-0EB3-4E6F-882C-D9EE09870B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69996F3F-0EB3-4E6F-882C-D9EE09870B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69996F3F-0EB3-4E6F-882C-D9EE09870B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69996F3F-0EB3-4E6F-882C-D9EE09870B45} = {6DED2278-ECA2-4F4C-BDB8-B549B414FA80}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91405DB4-ECDB-4B5B-935C-46E6F718B4C7}
+	EndGlobalSection
+EndGlobal

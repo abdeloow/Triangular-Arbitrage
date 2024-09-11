@@ -1,0 +1,12 @@
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\bin\Debug\net8.0\DynamicLib.deps.json
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\bin\Debug\net8.0\DynamicLib.dll
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\bin\Debug\net8.0\DynamicLib.pdb
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.AssemblyInfoInputs.cache
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.AssemblyInfo.cs
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.csproj.CoreCompileInputs.cache
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.dll
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\refint\DynamicLib.dll
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.pdb
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\ref\DynamicLib.dll
+C:\Users\dihba\Desktop\Exchanges\DynamicLib\Dynamic\DynamicLib\obj\Debug\net8.0\DynamicLib.csproj.AssemblyReference.cache
