@@ -4,8 +4,7 @@
 
 This repository contains a C# demo of the core logic used in a larger Cross-Exchange Trading Aggregator project, which was developed for a customer. The project demonstrates key functionalities like triangular arbitrage detection, leveraging live market data from cryptocurrency exchanges such as Binance and Poloniex.
 
-Due to confidentiality, only the core components of the system are presented here, excluding the React-based user interface and other proprietary features.
-
+Due to confidentiality, only the core components of the system are presented here, excluding the React-based user interface and other proprietary features. I have received explicit permission from the contractor to publish this demo for review, and the customer has approved this release.
 ## Purpose
 
 The goal of this demo is to:
