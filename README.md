@@ -57,7 +57,7 @@ This project was developed under a contract with a customer, so only the backend
     dotnet run
     The demo simulates triangular arbitrage detection by fetching live market data and identifying profitable trading cycles.
 
-    Full Platform
+## Full Platform
 
 The full platform for the Cross-Exchange Trading Aggregator includes:
 
@@ -65,8 +65,8 @@ The full platform for the Cross-Exchange Trading Aggregator includes:
     Advanced fee handling and slippage calculation.
     Comprehensive user interface built with React (not included in this repository).
 
-Confidentiality Notice
+## Confidentiality Notice
 
 This repository showcases only a portion of the larger customer project. Certain business logic and proprietary features have been omitted due to confidentiality. The full version includes additional trade execution capabilities and user interaction components.
 
-For more information, please reach out to me directly.
+For more information, please reach out to me directly -> dihbaouri@outlook.com.
