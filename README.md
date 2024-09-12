@@ -60,9 +60,9 @@ This project was developed under a contract with a customer, so only the backend
 
 The full platform for the Cross-Exchange Trading Aggregator includes:
 
-    Real-time trade execution across multiple exchanges.
-    Advanced fee handling and slippage calculation.
-    Comprehensive user interface built with React (not included in this repository).
+- Real-time trade execution across multiple exchanges.
+- Advanced fee handling and slippage calculation.
+- Comprehensive user interface built with React (not included in this repository).
 
 ## Confidentiality Notice
 
